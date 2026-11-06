@@ -1,0 +1,38 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Webots-generated data and model artifacts
+outputs/
+datasets/
+runs/
+wandb/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.npy
+*.npz
+*.zip
+*.log
+*.tfevents.*
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Never commit secrets
+*.pem
+*.key
+id_rsa
+id_ed25519

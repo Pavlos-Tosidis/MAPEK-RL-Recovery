@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the IEEE Access article and this software if used in your research."
+title: "MAPE-K Recovery for Multimodal Robotic Navigation Under Sensor Anomalies — Source Code"
+type: software
+authors:
+  - family-names: Tosidis
+    given-names: Pavlos
+  - family-names: Passalis
+    given-names: Nikolaos
+  - family-names: Tefas
+    given-names: Anastasios
+version: "0.1.0"
+date-released: 2026-11-06
+repository-code: "https://github.com/Pavlos-Tosidis/MAPEK-RL-Recovery"
+preferred-citation:
+  type: article
+  title: "MAPE-K Recovery for Multimodal Robotic Navigation Under Sensor Anomalies"
+  authors:
+    - family-names: Tosidis
+      given-names: Pavlos
+    - family-names: Passalis
+      given-names: Nikolaos
+    - family-names: Tefas
+      given-names: Anastasios
+  journal: "IEEE Access"
+  volume: "14"
+  year: 2026
+  doi: "10.1109/ACCESS.2026.3743649"
+  url: "https://doi.org/10.1109/ACCESS.2026.3743649"

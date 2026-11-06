@@ -1,0 +1,12 @@
+# Install a suitable CUDA/CPU PyTorch build first; see README.
+# Webots provides the `controller` Python module (not a pip package).
+numpy>=1.26,<3
+torch>=2.2,<3
+stable-baselines3[extra]>=2.3,<3
+gymnasium>=0.29,<2
+opencv-python>=4.8,<5
+transforms3d>=0.4,<1
+ultralytics>=8.3,<9
+tensorboard>=2.16,<3
+PyYAML>=6,<7
+pytest>=8,<10
